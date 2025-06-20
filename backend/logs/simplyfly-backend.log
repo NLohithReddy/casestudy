@@ -1,0 +1,44 @@
+2025-06-19 16:13:50 - c.h.s.SimplyflyApplicationTests - Starting SimplyflyApplicationTests using Java 18.0.2 with PID 18332 (started by SREENIVASULA REDDY in C:\Users\SREENIVASULA REDDY\Desktop\CaseStudy\backend)
+2025-06-19 16:13:50 - c.h.s.SimplyflyApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-19 16:13:53 - o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-19 16:13:54 - o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 233 ms. Found 4 JPA repository interfaces.
+2025-06-19 16:13:56 - o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-19 16:13:56 - org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2025-06-19 16:13:56 - o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-06-19 16:13:57 - o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-19 16:13:57 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-19 16:13:58 - com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ba46845
+2025-06-19 16:13:58 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-19 16:13:58 - org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-19 16:13:58 - org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2025-06-19 16:14:01 - o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-19 16:14:02 - o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-19 16:14:03 - o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2025-06-19 16:14:05 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-19 16:14:08 - o.s.v.b.OptionalValidatorFactoryBean - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-06-19 16:14:09 - c.h.s.SimplyflyApplicationTests - Started SimplyflyApplicationTests in 20.162 seconds (process running for 24.552)
+2025-06-19 16:14:11 - o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-19 16:14:11 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-06-19 16:14:12 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-06-19 16:16:06 - c.h.s.SimplyflyApplicationTests - Starting SimplyflyApplicationTests using Java 18.0.2 with PID 19064 (started by SREENIVASULA REDDY in C:\Users\SREENIVASULA REDDY\Desktop\CaseStudy\backend)
+2025-06-19 16:16:06 - c.h.s.SimplyflyApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-19 16:16:10 - o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-06-19 16:16:10 - o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 314 ms. Found 4 JPA repository interfaces.
+2025-06-19 16:16:12 - o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-06-19 16:16:12 - org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.3.Final
+2025-06-19 16:16:12 - o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-06-19 16:16:14 - o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-06-19 16:16:15 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-06-19 16:16:16 - com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a278584
+2025-06-19 16:16:16 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-06-19 16:16:17 - org.hibernate.orm.deprecation - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-06-19 16:16:17 - org.hibernate.orm.deprecation - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2025-06-19 16:16:20 - o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-06-19 16:16:21 - o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-06-19 16:16:22 - o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2025-06-19 16:16:23 - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-06-19 16:16:25 - o.s.v.b.OptionalValidatorFactoryBean - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-06-19 16:16:26 - c.h.s.SimplyflyApplicationTests - Started SimplyflyApplicationTests in 22.087 seconds (process running for 26.162)
+2025-06-19 16:16:29 - o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-06-19 16:16:29 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-06-19 16:16:29 - com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
